@@ -1,0 +1,11 @@
+{
+    "Host": "localhost",
+    "Dbname": "password",
+    "User": "admin",
+    "Password": "Admin",
+    "Port": 5432,
+    "MinSpecialChar": 2,
+	"MinNum": 1,
+	"MinUpperCase": 2,
+	"PasswordLength": 12
+}
